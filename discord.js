@@ -21,4 +21,4 @@ client.on("messageCreate", (message) => {
 
 
 
-client.login("OTEwNjQyNjg0ODAzMjg1MDcz.G1GmuG.0svwfyVOdYOf8QsRW16WVr4Ia5LltP0ekXfoQ0");
+client.login("Discord Token");
